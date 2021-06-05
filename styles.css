@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    font-size: 20px;
+    color:black;
+}
+
+.sub{
+    display: flex;
+    flex-wrap: wrap;
+
+    
+}
+.sub img{             
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+/* it is inside the sub we have img = , so its for image we want the border , so .sub img*/
